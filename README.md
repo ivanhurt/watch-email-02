@@ -1,4 +1,4 @@
-# Nilaa Coffee Email
+# Luxury Watch Email 02
 
 This is a recreated from a luxury watch store client email that was part of a welcome series for a client.  This email does not support dark mode, per the client's request.  
 
